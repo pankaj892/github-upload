@@ -1,0 +1,7 @@
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\bin\Debug\Dinosaurus.exe.config
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\bin\Debug\Dinosaurus.exe
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\bin\Debug\Dinosaurus.pdb
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\obj\Debug\Dinosaurus.exe
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\obj\Debug\Dinosaurus.pdb
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\obj\Debug\Dinosaurus.csprojAssemblyReference.cache
+C:\Users\Pankaj\source\repos\Dinosaurus\Dinosaurus\obj\Debug\Dinosaurus.csproj.CoreCompileInputs.cache
